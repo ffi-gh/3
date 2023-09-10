@@ -3,7 +3,7 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-test-test
+aaah4f3zhgaas
 
 # displayName
 
@@ -15,7 +15,7 @@ test
 
 > This is the description of the feed.
 
-知っていると便利そうなことをまとめました。
+list名の上書きのテスト
 
 # searchTerms
 
