@@ -3,7 +3,7 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-aaah4f3zhgaas
+test-test
 
 # displayName
 
